@@ -1,7 +1,11 @@
 # braille-art
-Convert text to/from Braille unicode. Zero dependencies.
+
+Convert text and images to Braille Unicode art
+
 ## Usage
+
 ```bash
-python3 braille_art.py "hello world"    # ⠓⠑⠇⠇⠕⠀⠺⠕⠗⠇⠙
-python3 braille_art.py --decode "⠓⠑⠇⠇⠕"
+python3 braille_art.py --help
 ```
+
+Zero dependencies. Python 3.8+.
